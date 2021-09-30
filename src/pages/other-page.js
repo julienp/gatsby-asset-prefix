@@ -5,12 +5,12 @@ import { Link } from "gatsby";
 const IndexPage = () => {
   return (
     <main>
-      <title>Home Page</title>
+      <title>Other pagae</title>
       <h1>Home</h1>
       <StaticImage src="../images/cat.jpg" alt="Cat" />
       <ul>
         <li>
-          <Link to="/other-page">Other page</Link>
+          <Link to="/">Home</Link>
         </li>
       </ul>
     </main>
