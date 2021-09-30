@@ -3,7 +3,7 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "gatsby-asset-prefix",
   },
-  // assetPrefix: `https://asset-prefix.example.com`,
+  assetPrefix: `https://asset-prefix.example.com`,
   // pathPrefix: `/the-path-prefix`,
   plugins: [
     `gatsby-plugin-image`,
