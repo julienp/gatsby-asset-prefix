@@ -4,7 +4,7 @@ module.exports = {
     title: "gatsby-asset-prefix",
   },
   assetPrefix: `https://asset-prefix.example.com`,
-  // pathPrefix: `/the-path-prefix`,
+  pathPrefix: `/the-path-prefix`,
   plugins: [
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
